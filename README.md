@@ -41,3 +41,7 @@ O GamingSmartSell é um sistema desktop desenvolvido para auxiliar no gerenciame
 - Geração de relatórios de vendas, estoque, produtos e usuários.
 - Exportação de relatórios nos formatos CSV e Excel.
 - Integração com banco de dados MySQL.
+
+## Versionamento
+
+O projeto utiliza Git para controle de versão e GitHub como repositório remoto.
